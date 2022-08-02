@@ -1,7 +1,8 @@
-package com.hellomotem.dictionaryapp
+package com.hellomotem.dictionaryapp.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.hellomotem.dictionaryapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
