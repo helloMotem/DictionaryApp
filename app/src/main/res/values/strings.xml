@@ -3,4 +3,7 @@
     <string name="search">Search</string>
     <string name="favourites">Favourites</string>
     <string name="history">History</string>
+    <string name="title_feature_search">Search Module</string>
+    <string name="title_feature_favourites">Favourites Module</string>
+    <string name="title_feature_history">Module Title</string>
 </resources>
